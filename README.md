@@ -33,3 +33,9 @@ Finally, you’ll upload the CSV file data into a Postgres database.
 <img width="611" alt="2_Crowdfunding_ERD" src="https://github.com/imanmalih/Crowdfunding_ETL/assets/128860080/d4a029e9-e4ad-45e3-a7f3-b172e94fd590">
 
 
+## Group Members Roles:
+Iman: ETL_coding, 2_Crowdfunding_ERD, 2_crowdfunding_schema, README
+Adrian: ETL_coding
+John: ETL_coding, Crowdfunding_ERD, Crowdfunding_db_schema
+
+
